@@ -5,7 +5,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": "node index.js"
+    "r": "node index.js"
   },
   "engines": {
     "node": "14.x"
